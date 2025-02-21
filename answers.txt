@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to retail, allowing people to track customers and habits and making decisions based on them 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing overwrites a branch while merging preserves both
